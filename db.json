@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Mary",
+      "department": "React"
+    },
+    {
+      "name": "John",
+      "department": "React",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Johnny",
+      "department": "React"
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "department": "NodeJS"
+    },
+    {
+      "id": 5,
+      "name": "Levine",
+      "department": "Java"
+    },
+    {
+      "id": "73",
+      "name": "Adam Young",
+      "department": "Angular"
+    }
+  ]
+}
